@@ -1,13 +1,15 @@
 # Global-Demographic-Analysis-and-Population-Visualization
 
 1. Introduction
+   
 This case study focuses on analyzing global demographic patterns using a publicly available dataset
 from the United Nations Population Division [?]. The study examines population growth, fertility,
 mortality, life expectancy, migration, and age distribution across countries and regions. The objective
 is to generate informative visualizations and derive insights that can guide policy-making and
 demographic planning.
 
-2. Problem Statement
+3. Problem Statement
+
 Countries around the world experience diverse demographic trends. Some face rapid population
 growth, straining resources and infrastructure, while others experience stagnation or decline, often
 with an aging population. Fertility rates, mortality, and migration patterns are the key factors
@@ -18,7 +20,8 @@ influencing these trends. The main questions are:
 • What patterns exist in age distribution and gender balance across regions?
 
 
-3. Objectives
+5. Objectives
+   
 The objectives of this case study are:
 • Identify population trends across countries and regions.
 • Examine drivers of population change: birth rates, death rates, and migration.
@@ -27,7 +30,7 @@ The objectives of this case study are:
 • Provide a foundation for future predictive analysis and visualization.
 
 
-4. Scope and Background of Dataset
+7. Scope and Background of Dataset
 This study covers:
 • All countries and regions globally, using the UN World Population Prospects dataset[1].
 • Demographic indicators such as total population, fertility, mortality, life expectancy, migration,
